@@ -18,9 +18,15 @@ Sistema proprietário de **atendimento via WhatsApp**, desenvolvido para uso int
 
 > As imagens abaixo são **meramente ilustrativas** e não representam acesso ao código ou às configurações internas do sistema.
 
-![Dashboard de Atendimento](https://imgur.com/WjdXCHW.png)
-![Atendimento em Andamento](./images/atendimento.png)
-![Histórico de Conversas](./images/historico.png)
+![1](https://imgur.com/WjdXCHW.png)
+![1](https://imgur.com/2O24Yr3.png)
+![1](https://imgur.com/A0bDTng.png)
+![1](https://imgur.com/YHvOlLU.png)
+![1](https://imgur.com/8IH2yUg.png)
+![1](https://imgur.com/LlgxpM7.png)
+![1](https://imgur.com/lN81XPz.png)
+![1](https://imgur.com/CuUkxAT.png)
+![1](https://imgur.com/o6a4UyG.png)
 
 ---
 
